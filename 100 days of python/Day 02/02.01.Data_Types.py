@@ -1,0 +1,5 @@
+num_Input = str(input("Type in your number: "))
+a = int(num_Input[0])
+b = int(num_Input[1])
+c = str(a + b)
+print(num_Input[0]+ " + " + num_Input[1] + " = " + c)
